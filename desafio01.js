@@ -1,5 +1,4 @@
-// let firstNumber = Number(prompt("Digite o primeiro número"));
-// let secondNumber = Number(prompt("Digite o segundo número"));
+
 
 let sum = firstNumber + secondNumber,
   sub = firstNumber - secondNumber,
